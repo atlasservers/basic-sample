@@ -1,4 +1,4 @@
-basic-sample
-============
+README
+======
 
-A repo used to test the GitHub API
+Hello World!
