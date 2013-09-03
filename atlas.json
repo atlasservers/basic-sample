@@ -1,0 +1,14 @@
+{
+  files: ["index.html","subfolder/SUBME.md"],
+  "formats": {
+    "pdf": {
+      "version": "web",
+      "index": true,
+      "toc": true
+    },
+    "epub": {},
+    "mobi": {},
+    "html": {}
+  },
+  theme: "oreillymedia/atlas_trade_theme"
+}
