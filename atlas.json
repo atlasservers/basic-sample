@@ -1,5 +1,5 @@
 {
-  files: ["index.html","subfolder/SUBME.md"],
+  "files": ["index.html","subfolder/SUBME.md"],
   "formats": {
     "pdf": {
       "version": "web",
@@ -10,5 +10,5 @@
     "mobi": {},
     "html": {}
   },
-  theme: "oreillymedia/atlas_trade_theme"
+  "theme": "oreillymedia/atlas_trade_theme"
 }
